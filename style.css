@@ -1,0 +1,14 @@
+/*
+Theme Name:     Bellevue Child Theme
+Theme URI:      http://demo.themovation.com/bellevue/
+Description:    Child theme for Bellevue
+Author:         Themovation
+Author URI:     http://themovation.com
+Template:       bellevue
+Version:        2.2
+License:        Regular License
+License URI:    http://themeforest.net/licenses/regular
+
+*/
+.page-title h1 {
+  color: red !important; }
